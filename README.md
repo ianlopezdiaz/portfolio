@@ -10,9 +10,19 @@
 
 ## **Professional Summary**
 
-Physicist with a Ph.D. in Statistical Mechanics and solid experience in computational modeling, Monte Carlo simulations, and data analysis.
-Recent work includes data science and machine learning projects applied to the energy sector.
-Proficient in Python, statistics, and data visualization, with a strong analytical background and a keen interest in transforming complex data into meaningful insights to support decision-making.
+I am a physicist with a Ph.D. in Statistical Mechanics from the Federal University of Santa Catarina (UFSC),
+where I also earned my M.Sc. (2009) and B.Sc. (2006) degrees in Physics.
+I have over ten years of experience teaching Physics at the university level, having worked at UFSC, the State University of Santa Catarina (UDESC),
+and the Federal University of Fronteira Sul (UFFS).
+
+My research area is Statistical Mechanics, with an emphasis on phase transitions and critical phenomena.
+Throughout my academic career, I have studied several disordered and aperiodic magnetic models,
+gaining experience in both theoretical and computational methods such as Monte Carlo simulations, mean-field, and effective-field approximations.
+I have published five peer-reviewed papers in international journals, including Physica A, Physica B, and Physical Review E.
+
+In recent years, I have expanded my work into Data Science and Machine Learning, with experience in computational modeling,
+data analysis, and the development of numerical simulations and pipelines applied to the energy sector.
+I am proficient in Python, statistics, and data visualization, with a strong interest in transforming complex data into meaningful insights to support decision-making.
 
 - [CV -- English](assets/pdf/ian-curriculum-en.pdf)
 - [CV -- Portuguese](assets/pdf/ian-curriculum-en.pdf)
