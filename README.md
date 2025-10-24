@@ -1,7 +1,7 @@
 
 # **Ian Jordy Lopez Diaz**
 
-**Data Scientist / Data Analyst**
+**[Data Scientist / Data Analyst](https://ianlopezdiaz.github.io/portfolio/)**
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ianlopezdiaz)
 - 💻 [GitHub](https://github.com/ianlopezdiaz)
@@ -100,4 +100,3 @@ Federal University of Santa Catarina (UFSC), Florianópolis, Brazil — *2003–
   [DOI: 10.1103/PhysRevE.85.021142](https://doi.org/10.1103/PhysRevE.85.021142) (2012)
 
 ---
-
