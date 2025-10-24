@@ -1,7 +1,7 @@
 
 # **Ian Jordy Lopez Diaz**
 
-**[Data Scientist / Data Analyst](https://ianlopezdiaz.github.io/portfolio/)**
+**Data Scientist / Data Analyst**
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ianlopezdiaz)
 - 💻 [GitHub](https://github.com/ianlopezdiaz)
