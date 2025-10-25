@@ -2,6 +2,8 @@ title: Ian J. L. Diaz
 logo: /assets/img/headshot_circle.png
 #description: text below image
 show_downloads: true
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 #theme: jekyll-theme-cayman
 #theme: jekyll-theme-hacker
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark"
