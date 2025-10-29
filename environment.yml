@@ -1,0 +1,4 @@
+name: portfolio
+channels:
+  - defaults
+prefix: /home/ian/anaconda3/envs/portfolio

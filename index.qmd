@@ -1,0 +1,141 @@
+<div class="profile-header" style="text-align:center; margin-top: 1em;">
+  <img src="assets/img/headshot_circle.png" alt="Ian Jordy Lopez Diaz" class="profile-pic" style="width:150px; border-radius:50%; margin-bottom:1em;">
+  <h1>Ian Jordy Lopez Diaz</h1>
+  <h3>Data Scientist / Data Analyst</h3>
+  <p class="social-links" style="font-size:1.1em; margin-top:0.5em;">
+    <a href="https://www.linkedin.com/in/ianlopezdiaz" target="_blank" style="text-decoration:none; margin-right:1em;">
+      <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="#0A66C2" style="vertical-align:middle; margin-right:0.3em;">
+        <path d="M19 0h-14c-2.76 0-5 2.24-5 5v14c0 2.76 
+        2.24 5 5 5h14c2.76 0 5-2.24 
+        5-5v-14c0-2.76-2.24-5-5-5zm-11 
+        19h-3v-10h3v10zm-1.5-11.3c-.97 
+        0-1.75-.79-1.75-1.75s.78-1.75 
+        1.75-1.75 1.75.79 1.75 
+        1.75-.78 1.75-1.75 1.75zm13.5 
+        11.3h-3v-5.6c0-1.34-.03-3.06-1.87-3.06-1.87 
+        0-2.16 1.46-2.16 
+        2.96v5.7h-3v-10h2.88v1.37h.04c.4-.75 
+        1.38-1.54 2.84-1.54 
+        3.04 0 3.6 2 3.6 4.6v5.6z"/>
+      </svg>
+      LinkedIn
+    </a>
+    <a href="https://github.com/ianlopezdiaz" target="_blank" style="text-decoration:none;">
+      <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="#181717" style="vertical-align:middle; margin-right:0.3em;">
+        <path d="M12 0C5.37 0 0 5.37 0 
+        12c0 5.3 3.438 9.8 8.205 
+        11.385.6.113.82-.26.82-.577 
+        0-.285-.01-1.04-.015-2.04-3.338.726-4.042-1.61-4.042-1.61-.546-1.387-1.333-1.756-1.333-1.756-1.09-.745.083-.73.083-.73 
+        1.205.084 1.84 1.237 
+        1.84 1.237 1.07 1.834 
+        2.807 1.304 3.492.997.107-.775.418-1.304.762-1.605-2.665-.305-5.467-1.333-5.467-5.932 
+        0-1.31.468-2.38 
+        1.235-3.22-.123-.304-.535-1.527.117-3.176 
+        0 0 1.008-.322 3.3 
+        1.23a11.51 11.51 0 0 1 3.003-.403c1.02.005 
+        2.045.138 3.003.403 
+        2.29-1.552 3.296-1.23 
+        3.296-1.23.653 1.649.242 
+        2.872.12 3.176.77.84 
+        1.233 1.91 1.233 3.22 
+        0 4.61-2.807 5.624-5.48 
+        5.922.43.372.823 1.102.823 
+        2.222 0 1.606-.015 2.898-.015 
+        3.293 0 .32.216.694.825.576A12.01 
+        12.01 0 0 0 24 12c0-6.63-5.37-12-12-12z"/>
+      </svg>
+      GitHub
+    </a>
+  </p>
+</div>
+
+
+
+::: {.callout collapse=false}
+# Professional Summary
+
+I am a physicist with a Ph.D. in Statistical Mechanics from the Federal University of Santa Catarina (UFSC),
+where I also earned my M.Sc. (2009) and B.Sc. (2006) degrees in Physics.
+I have over ten years of experience teaching Physics at the university level, having worked at UFSC, UDESC, and UFFS.
+
+My research area is Statistical Mechanics, with an emphasis on phase transitions and critical phenomena.
+Throughout my academic career, I have studied several disordered and aperiodic magnetic models,
+gaining experience in both theoretical and computational methods such as Monte Carlo simulations, mean-field, and effective-field approximations.
+I have published five peer-reviewed papers in international journals, including *Physica A*, *Physica B*, and *Physical Review E*.
+
+In recent years, I have expanded my work into Data Science and Machine Learning, with experience in computational modeling,
+data analysis, and the development of numerical simulations and pipelines applied to the energy sector.
+
+**CVs:** [English](assets/pdf/ian-curriculum-en.pdf) | [Portuguese](assets/pdf/ian-curriculum-pt.pdf)
+
+:::
+
+
+
+::: {.callout collapse=true}
+# Technical Skills
+
+* **Programming:** Python, C/C++, R, SQL
+* **Modeling:** Pandas, NumPy, SciPy, Scikit-Learn, TensorFlow, PyTorch, Statsmodels
+* **Visualization:** Matplotlib, Seaborn, Plotly
+* **Databases:** MySQL, SQLite, PostgreSQL
+* **Other:** Git, Linux, LaTeX, Monte Carlo Simulations, Feature Engineering
+:::
+
+
+
+::: {.callout collapse=true}
+# Experience
+
+* **Data Scientist / Data Analyst -- *Lima Brain Technology* (2022--2023)**
+	- Designed and implemented data pipelines for the ENIA project (EDP).
+* **Simulation Developer / Data Scientist -- *Lima Brain Technology* (2021--2024)**
+	- Developed Monte Carlo simulations and numerical algorithms for the ANGRA project, integrating physical modeling and data science.
+* **Physics Lecturer (2008--2025)**
+	- **UFSC, Florianópolis, SC, Brazil:** 08/2008--07/2010; 02/2013--12/2014; 02/2018--12/2019; 08/2023--07/2025
+	- **UDESC, Ibirama, SC, Brazil:** 02/2020--07/2022
+	- **UFFS, Cerro Largo, RS, Brazil:** 01/2011--02/2013
+
+:::
+
+
+
+::: {.callout collapse=true}
+# Education
+
+* **Ph.D. in Physics (Statistical Mechanics)** -- UFSC, 2015--2017
+* **M.Sc. in Physics (Statistical Mechanics)** -- UFSC, 2007--2009
+* **B.Sc. in Physics** -- UFSC, 2003--2006
+:::
+
+
+
+::: {.callout collapse=true}
+# Projects
+
+- [Simple GitHub Page generated from Jupyter Notebooks -- Using Quarto](https://ianlopezdiaz.github.io/gh-page-from-jupyter-notebook/)
+- [Another project](link)
+
+:::
+
+
+
+::: {.callout collapse=true}
+# Peer-Reviewed Publications
+
+* *Compensation temperature in spin-1/2 Ising trilayers: A Monte Carlo study.*
+  [DOI: 10.1016/j.physa.2019.123014](https://doi.org/10.1016/j.physa.2019.123014) (2020)
+
+* *Monte Carlo study of an anisotropic Ising multilayer with antiferromagnetic interlayer couplings.*
+  [DOI: 10.1016/j.physa.2017.09.005](https://doi.org/10.1016/j.physa.2017.09.005) (2018)
+
+* *Ferrimagnetism and compensation temperature in spin-1/2 Ising trilayers.*
+  [DOI: 10.1016/j.physb.2017.10.036](https://doi.org/10.1016/j.physb.2017.10.036) (2018)
+
+* *Monte Carlo simulations of an Ising bilayer with non-equivalent planes.*
+  [DOI: 10.1016/j.physa.2016.10.055](https://doi.org/10.1016/j.physa.2016.10.055) (2017)
+
+* *Magnetic properties and critical behavior of disordered Fe₁₋ₓRuₓ alloys: A Monte Carlo approach.*
+  [DOI: 10.1103/PhysRevE.85.021142](https://doi.org/10.1103/PhysRevE.85.021142) (2012)
+:::
+
