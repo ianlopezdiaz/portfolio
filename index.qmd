@@ -1,7 +1,7 @@
 <div class="profile-header" style="text-align:center; margin-top: 1em;">
   <img src="assets/img/headshot_circle.png" alt="Ian Jordy Lopez Diaz" class="profile-pic" style="width:150px; border-radius:50%; margin-bottom:1em;">
   <h1>Ian Jordy Lopez Diaz</h1>
-  <h3>Data Scientist / Data Analyst</h3>
+  <h3>Data Scientist | Physics Ph.D.</h3>
   <p class="social-links" style="font-size:1.1em; margin-top:0.5em;">
     <a href="https://www.linkedin.com/in/ianlopezdiaz" target="_blank" style="text-decoration:none; margin-right:1em;">
       <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="#0A66C2" style="vertical-align:middle; margin-right:0.3em;">
@@ -54,19 +54,23 @@
 ::: {.callout collapse=false}
 # Professional Summary
 
-I am a physicist with a Ph.D. in Statistical Mechanics from the Federal University of Santa Catarina (UFSC),
-where I also earned my M.Sc. (2009) and B.Sc. (2006) degrees in Physics.
-I have over ten years of experience teaching Physics at the university level, having worked at UFSC, UDESC, and UFFS.
+Data Scientist with a Ph.D. in Physics (Statistical Mechanics) and strong experience applying machine learning,
+statistical modeling, and numerical methods to real-world industrial problems.
 
-My research area is Statistical Mechanics, with an emphasis on phase transitions and critical phenomena.
-Throughout my academic career, I have studied several disordered and aperiodic magnetic models,
-gaining experience in both theoretical and computational methods such as Monte Carlo simulations, mean-field, and effective-field approximations.
-I have published five peer-reviewed papers in international journals, including *Physica A*, *Physica B*, and *Physical Review E*.
+Currently working at **[AQTech Power Prognostics](https://www.aqtech.com/)**, developing data-driven solutions for the energy sector,
+including predictive modeling, signal analysis, and scalable data pipelines.
 
-In recent years, I have expanded my work into Data Science and Machine Learning, with experience in computational modeling,
-data analysis, and the development of numerical simulations and pipelines applied to the energy sector.
+Background combines:
 
-**CVs:** [English](assets/pdf/ian-curriculum-en.pdf) | [Portuguese](assets/pdf/ian-curriculum-pt.pdf)
+- Advanced physics modeling (Monte Carlo, complex systems, critical phenomena)
+- Production-level data science (Python, ML, ETL, analytics)
+- Strong problem-solving and mathematical abstraction
+
+I focus on turning complex data into actionable insights and robust predictive systems.
+
+**CVs:** [English](assets/curriculum/ian-curriculum-en.pdf) | [Portuguese](assets/curriculum/ian-curriculum-pt.pdf)
+
+
 
 :::
 
@@ -75,11 +79,13 @@ data analysis, and the development of numerical simulations and pipelines applie
 ::: {.callout collapse=true}
 # Technical Skills
 
-* **Programming:** Python, C/C++, R, SQL
-* **Modeling:** Pandas, NumPy, SciPy, Scikit-Learn, TensorFlow, PyTorch, Statsmodels
-* **Visualization:** Matplotlib, Seaborn, Plotly
-* **Databases:** MySQL, SQLite, PostgreSQL
-* **Other:** Git, Linux, LaTeX, Monte Carlo Simulations, Feature Engineering
+* **Programming:** Python, SQL, R, C/C++
+* **Data Science:** Pandas, NumPy, SciPy, Scikit-Learn, TensorFlow, PyTorch, Statsmodels
+* **Data Engineering:** ETL Pipelines, Data Cleaning, Feature Engineering
+* **Databases:** PostgreSQL, MySQL, SQLite
+* **Visualization:** Matplotlib, Plotly, Seaborn
+* **Tools:** Git, Linux, Jupyter, Docker
+* **Scientific Computing:** Monte Carlo Simulations, Numerical Methods, Statistical Modeling
 :::
 
 
@@ -87,15 +93,21 @@ data analysis, and the development of numerical simulations and pipelines applie
 ::: {.callout collapse=true}
 # Experience
 
+* **Data Scientist -- *AQTech Power Prognostics* (2026--Present)**
+    - Developing machine learning models for predictive maintenance and fault detection in energy systems.
+    - Analyzing time-series data from industrial assets to extract actionable insights.
+    - Building and maintaining data pipelines for large-scale monitoring and diagnostics.
+    - Collaborating with engineers and domain experts to translate physical system behavior into data-driven solutions.
 * **Data Scientist / Data Analyst -- *Lima Brain Technology* (2022--2023)**
-	- Designed and implemented data pipelines for the ENIA project (EDP).
+    - Designed and implemented data pipelines for the ENIA (EDP) project, enabling efficient data ingestion and processing.
+    - Performed data analysis and feature engineering to support machine learning applications in the energy domain.
 * **Simulation Developer / Data Scientist -- *Lima Brain Technology* (2021--2024)**
-	- Developed Monte Carlo simulations and numerical algorithms for the ANGRA project, integrating physical modeling and data science.
+    - Developed Monte Carlo simulations and numerical models for the ANGRA project.
+    - Integrated physical modeling with data-driven approaches for system analysis and prediction.
 * **Physics Lecturer (2008--2025)**
-	- **UFSC, Florianópolis, SC, Brazil:** 08/2008--07/2010; 02/2013--12/2014; 02/2018--12/2019; 08/2023--07/2025
-	- **UDESC, Ibirama, SC, Brazil:** 02/2020--07/2022
-	- **UFFS, Cerro Largo, RS, Brazil:** 01/2011--02/2013
-
+    - **UFSC, Florianópolis, SC, Brazil:** 08/2008--07/2010; 02/2013--12/2014; 02/2018--12/2019; 08/2023--07/2025
+    - **UDESC, Ibirama, SC, Brazil:** 02/2020--07/2022
+    - **UFFS, Cerro Largo, RS, Brazil:** 01/2011--02/2013
 :::
 
 

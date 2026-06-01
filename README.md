@@ -5,6 +5,7 @@
 - The basic structure is in file [index.qmd](index.qmd)
 - Some configurations are in [_quarto.yml](_quarto.yml)
 - Files (logo, CVs) are in [assets](assets)
+- There is a CV template in [assets/curriculum](assets/curriculum)
 
 ## If you want to run this yourself do the following:
 
