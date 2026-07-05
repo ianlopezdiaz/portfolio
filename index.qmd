@@ -125,6 +125,7 @@ I focus on turning complex data into actionable insights and robust predictive s
 ::: {.callout collapse=true}
 # Projects
 
+- [Titanic: End-to-End Classification Case Study](https://ianlopezdiaz.github.io/kaggle-titanic/)
 - [House Prices: End-to-End Regression Case Study](https://ianlopezdiaz.github.io/kaggle-house-prices/)
 - [Simple GitHub Page generated from Jupyter Notebooks -- Using Quarto](https://ianlopezdiaz.github.io/gh-page-from-jupyter-notebook/)
 
