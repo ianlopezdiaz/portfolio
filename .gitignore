@@ -2,3 +2,11 @@
 **/*.quarto_ipynb
 
 *.code-workspace
+
+# =========================
+# Quarto rendered site
+# =========================
+# Published via `quarto publish gh-pages`, which pushes rendered
+# output to the gh-pages branch directly - no need to track it here.
+
+/_site/

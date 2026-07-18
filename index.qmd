@@ -1,3 +1,7 @@
+---
+description: "Data Scientist with a Ph.D. in Physics - machine learning, statistical modeling, and numerical methods for industrial problems."
+---
+
 <div class="profile-header" style="text-align:center; margin-top: 1em;">
   <img src="assets/img/headshot_circle.png" alt="Ian Jordy Lopez Diaz" class="profile-pic" style="width:150px; border-radius:50%; margin-bottom:1em;">
   <h1>Ian Jordy Lopez Diaz</h1>
@@ -21,7 +25,7 @@
       LinkedIn
     </a>
     <a href="https://github.com/ianlopezdiaz" target="_blank" style="text-decoration:none;">
-      <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="#181717" style="vertical-align:middle; margin-right:0.3em;">
+      <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="currentColor" style="vertical-align:middle; margin-right:0.3em;">
         <path d="M12 0C5.37 0 0 5.37 0 
         12c0 5.3 3.438 9.8 8.205 
         11.385.6.113.82-.26.82-.577 
@@ -127,7 +131,6 @@ I focus on turning complex data into actionable insights and robust predictive s
 
 - [Titanic: End-to-End Classification Case Study](https://ianlopezdiaz.github.io/kaggle-titanic/)
 - [House Prices: End-to-End Regression Case Study](https://ianlopezdiaz.github.io/kaggle-house-prices/)
-- [Simple GitHub Page generated from Jupyter Notebooks -- Using Quarto](https://ianlopezdiaz.github.io/gh-page-from-jupyter-notebook/)
 
 :::
 

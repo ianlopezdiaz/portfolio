@@ -6,6 +6,10 @@ website:
   description: "Data Scientist / Data Analyst"
   site-url: "https://ianlopezdiaz.github.io/portfolio"
   navbar: false
+  favicon: assets/img/headshot_circle.png
+  open-graph: true
+  twitter-card: true
+  image: assets/img/headshot_circle.png
   page-footer:
     left: "© 2026 ianlopezdiaz"
     right: "Built with [Quarto](https://quarto.org/)"

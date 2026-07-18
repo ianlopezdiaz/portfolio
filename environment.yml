@@ -1,4 +1,8 @@
+# No third-party Python packages are required to build or preview this
+# site (see requirements.txt for why). This env only exists as a
+# placeholder if you'd rather isolate the (empty) toolchain via conda
+# than install Quarto/TeX Live/ImageMagick system-wide.
 name: portfolio
 channels:
   - defaults
-prefix: /home/ian/anaconda3/envs/portfolio
+dependencies: []
