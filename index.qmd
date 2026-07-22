@@ -129,8 +129,14 @@ I focus on turning complex data into actionable insights and robust predictive s
 ::: {.callout collapse=true}
 # Projects
 
-- [Titanic: End-to-End Classification Case Study](https://ianlopezdiaz.github.io/kaggle-titanic/)
-- [House Prices: End-to-End Regression Case Study](https://ianlopezdiaz.github.io/kaggle-house-prices/)
+* **[Titanic: End-to-End Classification Case Study](https://ianlopezdiaz.github.io/kaggle-titanic/)**
+    - An end-to-end machine learning classification case study using the
+      Kaggle Titanic dataset, covering EDA, feature engineering, model
+      evaluation, and comparison through a Quarto tutorial website.
+* **[House Prices: End-to-End Regression Case Study](https://ianlopezdiaz.github.io/kaggle-house-prices/)**
+    - A didactic end-to-end regression tutorial using the Kaggle House
+      Prices dataset: EDA, cleaning, feature engineering, and modeling,
+      rendered as a clean tutorial site with Quarto.
 
 :::
 
