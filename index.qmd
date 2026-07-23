@@ -137,6 +137,9 @@ I focus on turning complex data into actionable insights and robust predictive s
     - A didactic end-to-end regression tutorial using the Kaggle House
       Prices dataset: EDA, cleaning, feature engineering, and modeling,
       rendered as a clean tutorial site with Quarto.
+* **[Intent-Aware Recommendation System](https://ianlopezdiaz.github.io/intent-aware-recommendation-system/)**
+    - An end-to-end ML project for intent-aware product recommendation
+      using NLP, product classification, and hybrid recommender systems.
 
 :::
 
