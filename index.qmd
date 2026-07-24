@@ -55,7 +55,7 @@ description: "Data Scientist with a Ph.D. in Physics - machine learning, statist
 
 
 
-::: {.callout collapse=false}
+::: {.callout collapse=false id="professional-summary"}
 # Professional Summary
 
 Data Scientist with a Ph.D. in Physics (Statistical Mechanics) and strong experience applying machine learning,
@@ -80,7 +80,7 @@ I focus on turning complex data into actionable insights and robust predictive s
 
 
 
-::: {.callout collapse=true}
+::: {.callout collapse=true id="technical-skills"}
 # Technical Skills
 
 * **Programming:** Python, SQL, R, C/C++
@@ -94,7 +94,7 @@ I focus on turning complex data into actionable insights and robust predictive s
 
 
 
-::: {.callout collapse=true}
+::: {.callout collapse=true id="experience"}
 # Experience
 
 * **Data Scientist -- *AQTech Power Prognostics* (2026--Present)**
@@ -116,7 +116,7 @@ I focus on turning complex data into actionable insights and robust predictive s
 
 
 
-::: {.callout collapse=true}
+::: {.callout collapse=true id="education"}
 # Education
 
 * **Ph.D. in Physics (Statistical Mechanics)** -- UFSC, 2015--2017
@@ -126,26 +126,30 @@ I focus on turning complex data into actionable insights and robust predictive s
 
 
 
-::: {.callout collapse=true}
+::: {.callout collapse=true id="projects"}
 # Projects
 
-* **[Titanic: End-to-End Classification Case Study](https://ianlopezdiaz.github.io/kaggle-titanic/)**
-    - An end-to-end machine learning classification case study using the
-      Kaggle Titanic dataset, covering EDA, feature engineering, model
-      evaluation, and comparison through a Quarto tutorial website.
+* **[Intent-Aware Recommendation System](https://ianlopezdiaz.github.io/intent-aware-recommendation-system/)**
+    - An end-to-end ML project for intent-aware product recommendation
+      using NLP, product classification, and hybrid recommender systems.
 * **[House Prices: End-to-End Regression Case Study](https://ianlopezdiaz.github.io/kaggle-house-prices/)**
     - A didactic end-to-end regression tutorial using the Kaggle House
       Prices dataset: EDA, cleaning, feature engineering, and modeling,
       rendered as a clean tutorial site with Quarto.
-* **[Intent-Aware Recommendation System](https://ianlopezdiaz.github.io/intent-aware-recommendation-system/)**
-    - An end-to-end ML project for intent-aware product recommendation
-      using NLP, product classification, and hybrid recommender systems.
+* **[Titanic: End-to-End Classification Case Study](https://ianlopezdiaz.github.io/kaggle-titanic/)**
+    - An end-to-end machine learning classification case study using the
+      Kaggle Titanic dataset, covering EDA, feature engineering, model
+      evaluation, and comparison through a Quarto tutorial website.
+* **[Iris: Multiclass Classification Case Study](https://ianlopezdiaz.github.io/kaggle-iris/)**
+    - A complete multiclass classification pipeline on the Kaggle Iris
+      dataset, covering EDA, feature engineering, and model comparison,
+      published as a Quarto tutorial website.
 
 :::
 
 
 
-::: {.callout collapse=true}
+::: {.callout collapse=true id="publications"}
 # Peer-Reviewed Publications
 
 * *Compensation temperature in spin-1/2 Ising trilayers: A Monte Carlo study.*

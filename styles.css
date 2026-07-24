@@ -38,3 +38,8 @@
   text-decoration: underline;
 }
 
+/* Keep anchor-linked sections from being hidden under the fixed navbar. */
+.callout {
+  scroll-margin-top: 70px;
+}
+

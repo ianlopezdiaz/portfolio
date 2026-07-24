@@ -5,7 +5,20 @@ website:
   title: "Ian Jordy Lopez Diaz"
   description: "Data Scientist / Data Analyst"
   site-url: "https://ianlopezdiaz.github.io/portfolio"
-  navbar: false
+  navbar:
+    left:
+      - text: "Summary"
+        href: "#professional-summary"
+      - text: "Skills"
+        href: "#technical-skills"
+      - text: "Experience"
+        href: "#experience"
+      - text: "Education"
+        href: "#education"
+      - text: "Projects"
+        href: "#projects"
+      - text: "Publications"
+        href: "#publications"
   favicon: assets/img/headshot_circle.png
   open-graph: true
   twitter-card: true
@@ -21,4 +34,5 @@ format:
       light: minty
     theme-toggle: true
     css: styles.css
+    include-after-body: assets/js/nav-expand-include.html
 
