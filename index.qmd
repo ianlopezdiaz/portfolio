@@ -144,6 +144,11 @@ I focus on turning complex data into actionable insights and robust predictive s
     - A complete multiclass classification pipeline on the Kaggle Iris
       dataset, covering EDA, feature engineering, and model comparison,
       published as a Quarto tutorial website.
+* **[Digit Recognizer: From-Scratch CNN Case Study](https://ianlopezdiaz.github.io/kaggle-digit-recognizer/)**
+    - A from-scratch convolutional neural network on the Kaggle Digit
+      Recognizer (MNIST) dataset, covering data loading, a small CNN
+      trained without pretrained weights, and evaluation beyond accuracy
+      through a confusion matrix and misclassified-example analysis.
 
 :::
 
