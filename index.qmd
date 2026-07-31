@@ -149,6 +149,9 @@ I focus on turning complex data into actionable insights and robust predictive s
       Recognizer (MNIST) dataset, covering data loading, a small CNN
       trained without pretrained weights, and evaluation beyond accuracy
       through a confusion matrix and misclassified-example analysis.
+* **[Transfer Learning on the Kaggle Dogs vs. Cats Dataset](https://ianlopezdiaz.github.io/kaggle-cats-vs-dogs/)**
+    - Cat vs. dog image classification with transfer learning (ResNet/EfficientNet),
+    Grad-CAM visualization, and error analysis.
 
 :::
 
